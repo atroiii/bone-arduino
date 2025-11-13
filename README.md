@@ -1,4 +1,4 @@
-# Boné Arduino com Sensor Ultrassônico e FreeRTOS
+# 🧢Boné Arduino com Sensor Ultrassônico e FreeRTOS
 
 Este projeto usa um sensor ultrassônico para medir distância e aciona um buzzer quando algo se aproxima a menos de 30 cm. O código é estruturado com FreeRTOS, usando duas tarefas:
 
@@ -74,7 +74,7 @@ void TaskBuzzer(void *pvParameters) {
 }
 
 ```
-##Guia de Montagem
+## 📟Guia de Montagem
 
 ![Guia de Montagem](git.png)
 
