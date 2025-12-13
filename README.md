@@ -93,7 +93,9 @@ void TaskBuzzer(void *pvParameters) {
 }
 
 ```
-#Esquema Eletrico
+##Esquema Eletrico
+![Esquema_Eletrico](esquemaelétrico.png)
+
 
 ## ✅Resultados
  Durante os testes realizados, o sistema foi capaz de detectar obstáculos com precisão a uma distância de 30 cm, sendo possível ajustar essa distância conforme necessário através da programação do Arduino. ​
