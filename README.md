@@ -94,7 +94,7 @@ void TaskBuzzer(void *pvParameters) {
 
 ```
 ##Esquema Eletrico
-![Esquema_Eletrico](esquemaelétrico.png)
+![Esquema_Eletrico](esquema_elétrico.png)
 
 
 ## ✅Resultados
