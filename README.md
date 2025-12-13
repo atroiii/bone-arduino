@@ -88,3 +88,6 @@ void TaskBuzzer(void *pvParameters) {
 
 ## ✅ Resultados
 Durante os testes realizados, o sistema foi capaz de detectar obstáculos com precisão a uma distância de 30 cm, sendo possível ajustar essa distância conforme necessário através da programação do Arduino. O buzzer emitiu alertas sonoros imediatos, pois foi implementado um sistema operacional de tempo real (FreeRTOS), proporcionando maior eficiência e controle das tarefas, permitindo ao usuário reagir antes de uma possível colisão. O boné mostrou-se confortável e funcional.
+## Esquema Elétrico
+![Esquema Elétrico](Esquema_Elétrico.png)
+
